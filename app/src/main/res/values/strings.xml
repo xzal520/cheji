@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">弹窗守护者</string>
+    <string name="accessibility_service_description">用于监控系统弹窗并识别来源应用，帮助您发现广告弹窗的真凶。</string>
+</resources>
